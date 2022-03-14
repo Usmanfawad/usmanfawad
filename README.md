@@ -1,4 +1,4 @@
 ### Hi 👋
-## This is Usman, a Python Developer.
+## This is Usman, a Software Developer.
 
 
