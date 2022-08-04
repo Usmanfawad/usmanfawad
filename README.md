@@ -1,4 +1,4 @@
-## Hello fellow programmers! 👋
+# Tech enthusiast ;)
 
 ### Software Engineer @ Hekasol
 usman@hekasol.co
