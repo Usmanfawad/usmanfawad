@@ -1,5 +1,5 @@
-## Software Engineer @ Hekasol
-usman@hekasol.com
+## Software Engineer @ NextRevol
+contact@nextrevol.com
 
 ![Heka1](https://user-images.githubusercontent.com/45047731/182907862-930badf3-ba32-4df8-a236-e26adf8fb4aa.png)
 
