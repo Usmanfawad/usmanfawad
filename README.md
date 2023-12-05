@@ -1,7 +1,4 @@
 ## Software Engineer @ NextRevol
-contact@nextrevol.com
-
-![nxtr](https://www.nextrevol.com/static/images/logo-main-white.png)
 
 ## 🔧 Technologies & Tools
 
