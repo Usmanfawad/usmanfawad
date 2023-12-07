@@ -1,6 +1,6 @@
 ## Software Engineer @ NextRevol
 
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies  
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
