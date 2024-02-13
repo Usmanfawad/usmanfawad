@@ -1,4 +1,4 @@
-## Software Engineer @ NextRevol
+## Senior Backend Engineer @ BleedAI
 
 ## 🔧 Tools & Technologies  
 
