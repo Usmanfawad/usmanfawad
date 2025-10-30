@@ -1,4 +1,4 @@
-## Senior Backend Engineer @ BleedAI
+## Senior AI/Backend Engineer @ BleedAI
 
 ## 🔧 Tools & Technologies  
 
